@@ -9,8 +9,7 @@
 
 ## Functional Design
 #### Explain the limitations of the python Global Interpreter Lock , and how you could work around it.
-#### How can you reduce the user’s perception of waiting when some functions take a lot of
-time?
+#### How can you reduce the user’s perception of waiting when some functions take a lot of time?
 #### Can you name different techniques for prototyping an application?
 #### Can you name different measures to guarantee correctness of data entry?
 #### What kinds of diagrams have you used in designing parts of an architecture, or a technical design? Which do you prefer and why?

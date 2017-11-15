@@ -7,6 +7,8 @@ consumer_key = 'consumerkey'
 consumer_secret = 'secret'
 access_token = '264955050-token'
 access_token_secret = 'tokensecret'
+
+
 class StdOutListener(StreamListener):
 
     def on_data(self, data):
